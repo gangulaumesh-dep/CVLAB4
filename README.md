@@ -23,3 +23,7 @@ Ensure you have the required Python libraries installed:
 2. **Custom Convolution**: The `image_filtering` function manually calculates the convolution using nested loops, which mimics the behavior of a CNN convolutional layer or a spatial filter.
 3. **Kernel Creation**: Creates a mathematically normalized 9x9 matrix.
 4. **Visualization**: Uses Matplotlib to display a side-by-side comparison of the original image against the blurred output.
+
+#OUTPUT :-
+
+<img width="1224" height="591" alt="image" src="https://github.com/user-attachments/assets/3160e6ed-47d6-4d1c-9967-8d60d6317abb" />
